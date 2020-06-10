@@ -5,6 +5,7 @@ This repository will be used to store all the code and things that I've learned 
 ## Courses
 
 [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) - Teached By Maximilian Schwarzmüller and Manuel Lorenz on Udemy
+[Microsoft: DEV218x Advanced CSS Concepts](https://courses.edx.org/courses/course-v1:Microsoft+DEV218x+1T2019a/course/) Instructed by Matt Dixon, Brent Bonet, Drake Boley, Josh Bezdek and Daren May
 
 ## Texts
 
