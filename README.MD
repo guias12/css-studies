@@ -8,7 +8,7 @@ This repository will be used to store all the code and things that I've learned 
 [Microsoft: DEV218x Advanced CSS Concepts](https://courses.edx.org/courses/course-v1:Microsoft+DEV218x+1T2019a/course/) Instructed by Matt Dixon, Brent Bonet, Drake Boley, Josh Bezdek and Daren May
 
 ## Texts
-
+[Dicas de CSS: position absolut, relative, static e fixed](https://www.impacta.com.br/blog/2015/03/30/dicas-de-css-position-absolut-relative-static-e-fixed/)
 
 ## Videos
 
@@ -17,3 +17,5 @@ This repository will be used to store all the code and things that I've learned 
 [Responsive Personal Portfolio Website [PART 1] | HTML and CSS Tutorial](https://www.youtube.com/watch?v=T7PnWnTgusc) - From Julio Codes on YouTube
 
 [CSS Position Tutorial](https://www.youtube.com/watch?v=gD3G67oPg-w) - From Dev Ed on YouTube
+
+[Build a Complete Responsive Website | HTML and CSS Tutorial](https://www.youtube.com/watch?v=j_Xa7Kn59Es) - From Julio Codes on Youtube
