@@ -15,3 +15,5 @@ This repository will be used to store all the code and things that I've learned 
 [Build A Meditation App With Javascript HTML & CSS!](https://www.youtube.com/watch?v=oMBXdZzYqEk&t=1419s) - From Dev Ed on YouTube. The code is on another [repo](https://github.com/guias12/relax-app) in my profile, but it's unfinished
 
 [Responsive Personal Portfolio Website [PART 1] | HTML and CSS Tutorial](https://www.youtube.com/watch?v=T7PnWnTgusc) - From Julio Codes on YouTube
+
+[CSS Position Tutorial](https://www.youtube.com/watch?v=gD3G67oPg-w) - From Dev Ed on YouTube
