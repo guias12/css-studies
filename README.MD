@@ -14,3 +14,4 @@ This repository will be used to store all the code and things that I've learned 
 [Responsive Personal Portfolio Website [PART 1] | HTML and CSS Tutorial](https://www.youtube.com/watch?v=T7PnWnTgusc) - From Julio Codes on YouTube
 [CSS Position Tutorial](https://www.youtube.com/watch?v=gD3G67oPg-w) - From Dev Ed on YouTube
 [Build a Complete Responsive Website | HTML and CSS Tutorial](https://www.youtube.com/watch?v=j_Xa7Kn59Es) - From Julio Codes on Youtube
+[Parallax Pixel Background Animation | HTML & CSS](https://www.youtube.com/watch?v=aywzn9cf-_U) - From WebDev SHORTS on Youtube
