@@ -24,12 +24,12 @@ main {
     width: 100%;
 }
 
-/*.signup-form input[type="checkbox"] */
-.signup-form input[id*="terms"], 
+/* .signup-form input[type="checkbox"] */
+.signup-form input[id*="terms"],
 .signup-form input[id*="terms"] + label {
     display: inline-block;
     width: auto;
-    vertical-align: middle;
+    vertical-align: bottom;
 }
 
 .signup-form input:not([type="checkbox"]),
@@ -39,7 +39,7 @@ main {
     font: inherit;
 }
 
-.signup-form input:not([type="checkbox"]):focus,
+.signup-form input:focus,
 .signup-form select:focus {
     outline: none;
     background: #d8f3df;
@@ -64,7 +64,7 @@ main {
 .signup-form input.invalid,
 .signup-form select.invalid,
 .signup-form :invalid {
-    border: 1px solid red !important;
+    border-color: red !important;
     background: #faacac;
 }
 
@@ -73,9 +73,9 @@ main {
     margin-top: 1rem;
 }
 
-@media (min-width:40rem) {
+@media (min-width: 40rem) {
     .signup-form {
         margin: auto;
-        width: 30rem;
+        width: 25rem;
     }
 }

@@ -1,3 +1,14 @@
+@font-face {
+    font-family: "AnonymousPro";
+    src: url("anonymousPro-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "AnonymousPro";
+    src: url("anonymousPro-Bold.ttf");
+    font-weight: 700;
+}
+
 main {
     padding-top: 2rem;
 }
@@ -37,7 +48,7 @@ main {
     position: absolute;
     top: 0;
     right: 0;
-    margin: 1.3rem;
+    margin: 1.2rem;
     font-size: 0.8rem;
     color: white;
     background: #ff5454;
@@ -51,9 +62,10 @@ main {
 .package__info {
     padding: 1rem;
     border: 1px solid #0e4f1f;
-    font-size: 1.3rem;
     color: #0e4f1f;
     background: white;
+    font-size: 1.2rem;
+    /* font-style font-variant font-weight font-size/line-height font-family*/
 }
 
 .clearfix {
@@ -103,11 +115,11 @@ main {
     }
 
     #free {
-        border-right: 4px solid #0e4f1f;
+      border-right: 4px solid #0e4f1f;
     }
 
     #free:hover,
     #free:active {
-        border-right-color: #ff5454;
+      border-right-color: #ff5454;
     }
 }

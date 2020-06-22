@@ -3,15 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width initial-scale=1.0">
-    <title>uHost</title>
+    <title>uHost Signup</title>
     <link rel="shortcut icon" href="../favicon.png">
-    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
     <link rel="stylesheet" href="../shared.css">
     <link rel="stylesheet" href="start-hosting.css">
 </head>
+
 <body>
     <div class="backdrop"></div>
     <header class="main-header">
@@ -61,14 +60,14 @@
                 <option value="ms">Ms.</option>
             </select>
             <label for="first-name">First name</label>
-            <input type="text" id="first-name">
+            <input type="text" id="first-name" required>
             <label for="last-name">Last name</label>
-            <input type="text" id="last-name">
+            <input type="text" id="last-name" required>
             <label for="email">E-Mail</label>
-            <input type="email" id="email">
+            <input type="email" id="email" required>
             <label for="password">Password</label>
-            <input type="password" id="password">
-            <input type="checkbox" id="agree-terms">
+            <input type="password" id="password" required>
+            <input type="checkbox" id="agree-terms" required>
             <label for="agree-terms">Agree to
                 <a href="#">Terms &amp; Conditions</a>
             </label>
@@ -89,4 +88,5 @@
     </footer>
     <script src="../shared.js"></script>
 </body>
+
 </html>
