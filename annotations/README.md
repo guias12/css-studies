@@ -58,3 +58,7 @@ Essas são algumas das unidades recomendadas, mas é preciso avaliar o que se de
     bottom: 100%;
 }
 ```
+
+### Autoprefixer
+
+Após criar os arquivos css, usar o [Autoprefixer](https://autoprefixer.github.io/) para adicionar os prefixos de maneira a deixar o código compatível com mais browsers
